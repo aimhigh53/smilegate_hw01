@@ -1,0 +1,29 @@
+{
+  "name": "1sthw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "ajax": "0.0.4",
+    "async": "^3.2.0",
+    "base62": "^2.0.1",
+    "ejs": "^3.1.5",
+    "elasticsearch": "^16.7.2",
+    "express": "^4.17.1",
+    "int-encoder": "^1.1.1",
+    "isurl": "^4.0.1",
+    "jquery": "^3.5.1",
+    "json": "^10.0.0",
+    "logstash": "^3.0.0",
+    "node-cache": "^5.1.2",
+    "request": "^2.88.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
